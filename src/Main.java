@@ -10,6 +10,7 @@ public class Main {
 
         //variables and datatypes:
         String name = "Siddhant";
+        char firstletter = 'S';
         int age = 20;
         boolean isMale = true;
 
