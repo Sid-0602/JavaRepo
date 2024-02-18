@@ -10,6 +10,7 @@ public class Main {
         Car car1 = new Car("Tesla", "S PLADE","white",4); //this is an object created on basis of class "CAR"
         Car car2 = new Car("Ford","MUstang","Red",4);
         Car car3  = new Car(); //no parameters, hence an default constructor is called.
+        Car.displayData();
 
 
         //getters used for extracting attributes:

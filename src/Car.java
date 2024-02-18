@@ -45,6 +45,10 @@ public class Car {
         doors = 0;
     }
 
+    public static void displayData(){
+        System.out.println("Displaying data!");
+    }
+
     //THESE ARE METHODS Inside Car class.
 
     public void describe_Car(){
